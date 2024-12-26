@@ -27507,7 +27507,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JOEL-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name HANS-MD",
     "stop": "pm2 stop HANS-MD",
     "restart": "pm2 restart HANS-MD"
   },
